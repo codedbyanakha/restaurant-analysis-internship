@@ -38,7 +38,7 @@ Tools Used
 | Programming             | Python                                                      |
 | Data Processing         | Pandas, NumPy                                               |
 | Visualization           | Seaborn, Matplotlib, Plotly, Folium                         |
-| Development Environment | Jupyter Notebook                                            |
+| Development Environment | Google Colab                                            |
 | Analysis Techniques     | Data Cleaning, Visualization, Basic NLP (using Rating Text) |
 
 OUTCOME: 
